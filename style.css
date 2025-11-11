@@ -1,0 +1,11 @@
+body {
+  height: 100%;
+  background-color: #444444;
+}
+
+a,
+li,
+div,
+p {
+  color: white;
+}
